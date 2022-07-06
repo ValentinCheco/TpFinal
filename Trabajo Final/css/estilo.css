@@ -1,0 +1,19 @@
+body {background-image: url(../imagenes/fondo.jpg); background-repeat: no-repeat; background-attachment: fixed; margin: 0}
+h1 {font-style: oblique;text-align:center; text-decoration: underline;}
+section {; width: 48%; float: left; margin: 1%; border: 3px solid black; box-sizing: border-box;height: 1100px; overflow: auto;}
+.audi1 {width: 100%; height: 30vh}
+.audi2 {width: 100%; height: 30vh}
+.d-block {height: 100vh}
+.contactos {background-color:#85929E;height: 800px; width: 75%; margin: 13%; padding: 1px; border: 2px; border-style: solid; border-color: black; box-sizing: border-box; overflow: auto; text-align: center;}
+.redes {display: flex; justify-content: space-around; align-items: center; }
+.personal{text-decoration: overline; font-style: italic; font-size: 25px; align-content: flex-end;}
+.titulo {color: red;
+font-style: italic;}
+.navegador {text-align: center}
+aside {width: 48%; float: left;margin: 1%; border: 3px solid black; box-sizing: border-box; height: auto;height: 1100px;overflow: auto;}
+footer {clear: both; text-align: center;
+  display: flex;
+justify-content: space-around;}
+.auca {color:white}
+.lista:hover {color:red;font-size: 25px}
+.subti {text-align: center;}
